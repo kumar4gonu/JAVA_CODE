@@ -4,7 +4,7 @@ import java.math.BigDecimal;
 import java.util.ArrayList;
 import java.util.List;
 
-public class TestSorting {
+public class  TestSorting {
     public static void main(String[] args) {
 
         List<Developer> listDevlopers = getDeveloper();
